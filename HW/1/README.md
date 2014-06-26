@@ -23,15 +23,15 @@ There are **24** marks available and are awarded grades as follows:
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
 
 ```
-answer here
+it is simple and easy to read
 ```
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
-answer here
+10010011
 ```
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 ```
-answer here
+b=14 +4 = 1110 0100
 ```
 ###4 - Here is a function written is **pseudocode**.
 ```
@@ -69,12 +69,12 @@ line7:		OUTPT mean
 
 (a) On which line is there a **syntax** error? **(1 mark)**
 ```
-answer here
+7
 ```
 
 (b) What is meant by a **syntax** error? **(1 mark)**
 ```
-answer here
+where the code does not make sense to the computer
 ```
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
@@ -84,7 +84,7 @@ answer here
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
-answer here
+run time error
 ```
 
 ##Algortithms
@@ -98,27 +98,27 @@ answer here
 
 **Bus Topology (6 marks)**
 ```
-Describe:
+Describe:A bus topology is a type of network setup where each computer and network device is connected to a single cable or backbone.
 
-Advantages:
+Advantages:easy to set up and is  cheap
 
-Disadvantages:
+Disadvantages: There is a limit on central cable length and number of nodes that can be connected
 ```
 
 **Ring Topology (6 marks)**
 ```
-Describe:
+Describe:In Ring Topology, all the nodes are connected to each-other in such a way that they make a closed loop. Each workstation is connected to two other components on either side, and it communicates with these two adjacent neighbors. 
 
-Advantages:
+Advantages:Each computer has equal access to resources,  Additional components do not affect the performance of network.
 
-Disadvantages:
+Disadvantages:If one workstation or port goes down, the entire network gets affected, Network is highly dependent on the wire which connects different components.
 ```
 
 **Star Topology (6 marks)**
 ```
-Describe:
+Describe:In Star topology, all the components of network are connected to the central device called “hub” which may be a hub, a router or a switch. Unlike Bus topology, where nodes were connected to central cable, all the workstations are connected to central device with a point-to-point connection.
 
-Advantages:
+Advantages:Centralized management helps in monitoring the network.
 
-Disadvantages:
+Disadvantages: Too much dependency on central device has its own drawbacks. If it fails whole network goes down.
 ```
