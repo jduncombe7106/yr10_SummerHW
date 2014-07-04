@@ -26,11 +26,15 @@ Once you can explain the solution you might try to write a computer program to s
 
 ####How many trips from shore to shore must the boat take?
 ```
-answer here
+100
 ```
 ####Explain you algorithm here:
+Two children go over.
+1 child goes back
+1 adult goes across
+1 child goes back
+this has to be done 25 times as there is 25 soliders and this algoithm has to be repeated for every solider.
 ```
-answer here
 ```
 
 ##Extension
@@ -43,7 +47,7 @@ Step 25       SSSSSScc..............SSSSSSSSSSSSSSSSSSS
 
 c = child
 S = solider
-```       
+```      
 
 For text based programs like pytohn you should create a new file in you repository
 ![Add new](../../Resources/new.png)
